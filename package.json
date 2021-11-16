@@ -1,0 +1,19 @@
+{
+  "name": "new_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh-lal-gupta/npm-elective.git"
+  },
+  "author": "saurabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabh-lal-gupta/npm-elective/issues"
+  },
+  "homepage": "https://github.com/Saurabh-lal-gupta/npm-elective#readme"
+}
